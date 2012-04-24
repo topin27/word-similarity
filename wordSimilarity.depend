@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1298627406 source:f:\someproj\cppproj\wordsimilarity\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<vector>
+	<map>
+
